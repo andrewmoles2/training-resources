@@ -42,11 +42,32 @@ Repository of various useful resources for training
 *  Information is beautiful awards - https://www.informationisbeautifulawards.com/showcase?award=2023&mc_cid=9d8f228bb5&type=awards - many amazing visualisations made over the years. Some even share their code if they have used R/Python/JavaScript
 *  https://www.data-to-viz.com/
 
-## Blogs
+## Blogs 
 
-*  R bloggers - https://www.r-bloggers.com/
-*  Python bloggers - https://python-bloggers.com/
-*  https://blog.djnavarro.net/
+*  R bloggers - https://www.r-bloggers.com/ 
+*  Python bloggers - https://python-bloggers.com/ 
+*  https://blog.djnavarro.net/ 
+*  https://posit.co/blog/  
+
+## Helpful Statistics resources 
+
+*  Interactive explainer for various machine learning models - https://mlu-explain.github.io/ 
+*  Interactive explainer for various statistics principles -  https://seeing-theory.brown.edu/index.html#firstPage 
+*  Interactive explainer for central limit theorem -  http://mfviz.com/central-limit/ 
+*  Fun interactive R course on statistics basics -  https://tinystats.github.io/teacups-giraffes-and-statistics/index.html 
+*  Amazing YouTube channel covering statistics and machine learning -  https://www.youtube.com/@statquest 
+*  Helpful guides on how to run various statistical tests using R - https://www.r-tutor.com/ 
+
+## Open-source data science books 
+
+*  R for Data Science (my data science bible) - https://r4ds.hadley.nz/. First version is also great - https://r4ds.had.co.nz/ 
+*  ggplot2 book - https://ggplot2-book.org/  
+*  Fundamentals of Data Visualisation - https://clauswilke.com/dataviz/  
+*  Python for data science - https://aeturrell.github.io/python4DS/welcome.html  
+*  Python for data science handbook - https://jakevdp.github.io/PythonDataScienceHandbook/ 
+*  Introduction to Statistical Learning (machine learning bible) - https://www.statlearning.com/ (now in Python too!) 
+*  Python for Data Analysis - https://wesmckinney.com/book/  
+*  Book of books - https://www.bigbookofr.com/index.html - has lots of resources for using and learning R 
 
 
 
