@@ -28,7 +28,8 @@ Repository of various useful resources for training
 *  Draw my data - http://robertgrantstats.co.uk/drawmydata.html - useful for making quick example datasets
 *  Datasaurus dozen - https://cran.r-project.org/web/packages/datasauRus/vignettes/Datasaurus.html - Useful to show how summary statistics hide the data. Cool Tableau dashboard here: https://public.tableau.com/app/profile/datasaurus.rex/viz/DatasaurusDozen_15991883507530/Main
 *  Eurovision song contest - https://github.com/andrewmoles2/eurovision-contest
-*  Pokemon game data - https://github.com/andrewmoles2/webScraping/blob/main/R/data/pokemon.csv 
+*  Pokemon game data - https://github.com/andrewmoles2/webScraping/blob/main/R/data/pokemon.csv
+*  [Price quote](https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/consumerpriceindicescpiandretailpricesindexrpiitemindicesandpricequotes) data from ONS with automated scraping scripts (written in R, might also have Python version too) - https://github.com/andrewmoles2/ONS-Price-Quotes
 
 ## Helpful training tools
 
@@ -47,9 +48,15 @@ Repository of various useful resources for training
 ## Blogs 
 
 *  R bloggers - https://www.r-bloggers.com/ 
-*  Python bloggers - https://python-bloggers.com/ 
-*  https://blog.djnavarro.net/ 
-*  https://posit.co/blog/  
+*  Python bloggers - https://python-bloggers.com/
+*  https://pycoders.com/
+*  https://blog.djnavarro.net/
+*  https://www.cedricscherer.com/
+*  https://karaman.is/
+*  https://www.yan-holtz.com/blog.html
+*  https://albert-rapp.de/blog.html
+*  https://posit.co/blog/
+*  https://github.com/tashapiro/TidyTuesday (more example than blog!)
 
 ## Helpful Statistics resources 
 
@@ -57,12 +64,12 @@ Repository of various useful resources for training
 *  Interactive explainer for various statistics principles -  https://seeing-theory.brown.edu/index.html#firstPage 
 *  Interactive explainer for central limit theorem -  http://mfviz.com/central-limit/ 
 *  Fun interactive R course on statistics basics -  https://tinystats.github.io/teacups-giraffes-and-statistics/index.html 
-*  Amazing YouTube channel covering statistics and machine learning -  https://www.youtube.com/@statquest 
+*  Amazing YouTube channel covering statistics and machine learning -  https://www.youtube.com/@statquest - and his website - https://statquest.org/
 *  Helpful guides on how to run various statistical tests using R - https://www.r-tutor.com/ 
 
 ## Open-source data science books 
 
-*  R for Data Science (my data science bible) - https://r4ds.hadley.nz/. First version is also great - https://r4ds.had.co.nz/ 
+*  R for Data Science (my data science bible) - https://r4ds.hadley.nz/. The first version is also great - https://r4ds.had.co.nz/ 
 *  ggplot2 book - https://ggplot2-book.org/  
 *  Fundamentals of Data Visualisation - https://clauswilke.com/dataviz/  
 *  Python for data science - https://aeturrell.github.io/python4DS/welcome.html  
