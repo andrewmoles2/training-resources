@@ -14,6 +14,7 @@ Repository of various useful resources for training
 *  Makeover Monday - https://www.makeovermonday.co.uk/data/ - like TidyTuesday, data posted each week
 *  fivethirtyeight - https://data.fivethirtyeight.com/
 *  Office of National Statistics - https://www.ons.gov.uk/ - loads of datasets such as the [cencus](https://www.ons.gov.uk/search?topics=9731,6646,3845,9497,4262,4128,7755,4994,6885,9724,7367&filter=datasets)
+*  [Clio Infra dataset repository](https://clio-infra.eu/index.html#datasets). Clio Infra has set up a number of interconnected databases containing worldwide data on social, economic, and institutional indicators for the past five centuries, with special attention to the past 200 years. Look at the datasets on [height](https://clio-infra.eu/Indicators/Height.html) as an example; the academic data can be found [here](https://uni-tuebingen.de/en/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-wirtschaftswissenschaft/wirtschaftswissenschaft/lehrstuehle/volkswirtschaftslehre/wirtschaftsgeschichte/forschung/data-hub-height/). 
 
 **Other cool datasets:**
 
