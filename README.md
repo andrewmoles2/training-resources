@@ -6,6 +6,7 @@ Repository of various useful resources for training
 **Data sources:**
 
 *  TidyTuesday - https://github.com/rfordatascience/tidytuesday
+*  Dataset repository from information is beautiful - https://informationisbeautiful.net/data/
 *  Our World in Data - https://ourworldindata.org/ (also has great inspiration for data viz!)
 *  Data is Plural - https://www.data-is-plural.com/ - more out there datasets and interesting articles related to them
 *  Dataset repos on Github such as - https://github.com/awesomedata/awesome-public-datasets 
