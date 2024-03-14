@@ -30,7 +30,7 @@ Repository of various useful resources for training
 *  Draw my data - http://robertgrantstats.co.uk/drawmydata.html - useful for making quick example datasets
 *  Datasaurus dozen - https://cran.r-project.org/web/packages/datasauRus/vignettes/Datasaurus.html - Useful to show how summary statistics hide the data. Cool Tableau dashboard here: https://public.tableau.com/app/profile/datasaurus.rex/viz/DatasaurusDozen_15991883507530/Main
 *  Eurovision song contest - https://github.com/andrewmoles2/eurovision-contest
-*  Pokemon game data - https://github.com/andrewmoles2/webScraping/blob/main/R/data/pokemon.csv
+*  Pokemon game data - https://github.com/andrewmoles2/pokemon-video-games
 *  [Price quote](https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/consumerpriceindicescpiandretailpricesindexrpiitemindicesandpricequotes) data from ONS with automated scraping scripts (written in R, might also have Python version too) - https://github.com/andrewmoles2/ONS-Price-Quotes
 
 ## Helpful training tools
