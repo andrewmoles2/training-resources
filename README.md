@@ -26,7 +26,6 @@ Repository of various useful resources for training
 *  Climate data - https://github.com/bczernecki/climate 
 *  Deprivation data - https://data-communities.opendata.arcgis.com/datasets/indices-of-multiple-deprivation-imd-2019-1/explore
 *  Daily climate data (this is usually very hard to find!) - https://www.ecad.eu/dailydata/index.php 
-*  European social survey - https://www.europeansocialsurvey.org/data/
 *  Draw my data - http://robertgrantstats.co.uk/drawmydata.html - useful for making quick example datasets
 *  Datasaurus dozen - https://cran.r-project.org/web/packages/datasauRus/vignettes/Datasaurus.html - Useful to show how summary statistics hide the data. Cool Tableau dashboard here: https://public.tableau.com/app/profile/datasaurus.rex/viz/DatasaurusDozen_15991883507530/Main
 *  Eurovision song contest - https://github.com/andrewmoles2/eurovision-contest
