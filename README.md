@@ -32,6 +32,7 @@ Repository of various useful resources for training
 *  Eurovision song contest - https://github.com/andrewmoles2/eurovision-contest
 *  Pokemon game data - https://github.com/andrewmoles2/pokemon-video-games
 *  [Price quote](https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/consumerpriceindicescpiandretailpricesindexrpiitemindicesandpricequotes) data from ONS with automated scraping scripts (written in R, might also have Python version too) - https://github.com/andrewmoles2/ONS-Price-Quotes
+*  [European Social Survey (ESS)](https://www.europeansocialsurvey.org/) which has data on how people perceive politics and happiness in their countries. 
 
 ## Helpful training tools
 
