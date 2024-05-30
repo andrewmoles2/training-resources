@@ -48,6 +48,7 @@ Repository of various useful resources for training
 ## Courses
 
 *  Data science in a box - https://datasciencebox.org/ & https://github.com/tidyverse/datascience-box - covers pedagogy on teaching fundamentals of data science (using R)
+*  [Data Garden](https://data-garden.notion.site/Data-Garden-Guidebook-47a11bf555ab40bfbf68540d85067e9f) which is learning to code through creative data visualisation using JavaScript (p5.js). You can see what people have made on their [project page](https://datagardenproject.com/). 
 
 ## Ideas and inspiration 
 
