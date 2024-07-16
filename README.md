@@ -43,7 +43,8 @@ Repository of various useful resources for training
 *  [RAWGraphs](https://www.rawgraphs.io/) is a good open-source data visualisation tool/BI tool like Tableau or PowerBi.
 *  [HackMD](https://hackmd.io/) is a great open-source markdown editor which allows for collaboration. It has a wide array of really nice features like graphviz and callouts too.
 *  [Insomnia](https://github.com/Kong/insomnia) is an open-source API client that I have found helpful when using APIs for web scraping.
-*  [Quarto](https://quarto.org/) is an open-source scientific and technical publishing system built around markdown and the R and Python ecosystems. It is my go to tool for reporting and building websites.
+*  [Quarto](https://quarto.org/) is an open-source scientific and technical publishing system built around markdown and the R and Python ecosystems. It is my go-to tool for reporting and building websites.
+*  [Libre Office](https://www.libreoffice.org/discover/libreoffice/) is an open-source version of MS Office including equivalents for Word, Excel, PowerPoint, and Access.
 
 ## Courses
 
