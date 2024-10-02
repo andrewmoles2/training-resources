@@ -87,7 +87,9 @@ Repository of various useful resources for training
 *  Python for data science handbook - https://jakevdp.github.io/PythonDataScienceHandbook/ 
 *  Introduction to Statistical Learning (machine learning bible) - https://www.statlearning.com/ (now in Python too!) 
 *  Python for Data Analysis - https://wesmckinney.com/book/  
-*  Book of books - https://www.bigbookofr.com/index.html - has lots of resources for using and learning R 
+*  Book of books - https://www.bigbookofr.com/index.html - has lots of resources for using and learning R
+*  For statistics in Python I recommend the **Pingouin** package - https://pingouin-stats.org/build/html/index.html - this takes you to the guide
+*  Coding for economists is also helpful around using Python for statistics - https://aeturrell.github.io/coding-for-economists/intro.html 
 
 
 
