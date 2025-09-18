@@ -39,6 +39,7 @@ Repository of various useful resources for training
 
 * Guess the correlation game - https://www.guessthecorrelation.com/ - a fun way to learn what different R-squared values look like visualised. I like to make it a class-wide discussion game.
 * What is going on in this graph - https://www.nytimes.com/column/whats-going-on-in-this-graph - a useful resource to help create discussions about data visualisation such as if a graph is still readable/interpretable with some labels or titles missing
+* SQL learning game - https://mystery.knightlab.com/
 
 ## Open-source tools
 
